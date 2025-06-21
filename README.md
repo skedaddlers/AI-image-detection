@@ -1,5 +1,3 @@
----
-
 # 🎨 CNN-Based AI Art Classifier
 
 This project implements a convolutional neural network (CNN) model for classifying AI-generated artworks using TensorFlow and Keras. It is a part of a final project of my Knowledge Based Engineering class.
